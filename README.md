@@ -1,2 +1,4 @@
 # python_fibonacci_sequence
-This Fibonacci Sequence program (Python) prints a sequence of 20 digits using Fibonacci's formula. 
+This Fibonacci Sequence script (Python) prints a sequence of 20 digits using Fibonacci's formula. This Python program was designed using an object-oriented class.
+
+Link to .py file:
