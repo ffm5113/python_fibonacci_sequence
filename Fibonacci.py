@@ -3,9 +3,6 @@ class Fibonacci:
     n = 20    # Number of iterations
     index = 0 # Object to keep track of iteration index
     x = 0     # Value printed on first iteration/calculated value based on iteration index
-    
-    def string(self):
-        print(self.string1, self.string2)
         
     def integers(self):
         # While the iteration index is less than 20
@@ -23,7 +20,7 @@ class Fibonacci:
 def main():                        
     # Declare object fibonacci of class Fibonacci
     fibonacci = Fibonacci()        
-    # Call inetgers methods/function
+    # Call integers methods/function
     fibonacci.integers()           
     
 if __name__ == '__main__': main()
